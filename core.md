@@ -20,9 +20,6 @@ permalink: /core/
 * [Current](http://github.com/stormasm)
 * [Past](http://stormasm.github.io/resume/github/)
 
-I am no longer focused or interested as much in the **front end** projects,
-but in the past I spent along time developing products in these areas.
-
 ### Front End
 
 * [Angular.js](http://angularjs.org)
