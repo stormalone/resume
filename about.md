@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-My passion is working with small teams of developers to build successful open source software products.  Through out my career I have combined these endeavors to become successful in the software industry.  Success can be defined in many ways, but most importantly I define it as being totally fulfilled in my professional life by helping other people work together as a team.
+My passion is working with small teams of developers to build open source software products.
+Through out my career, I have done this continually in different programming languages, environments, corporations, universities, startups, and teaching. Success can be defined in many ways, but most importantly I define it as being totally fulfilled in my professional life by helping other people work together as a team.
 
 Business acumen comes via deeply understanding how other skilled people and companies accomplish the task of building superior software products that people want to use.  The team building effort is a function of matching each person’s strengths with the job they have to perform.
 
