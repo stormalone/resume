@@ -9,7 +9,7 @@ Through out my career, I have done this continually in different programming lan
 
 Business acumen comes via deeply understanding how other skilled people and companies accomplish the task of building superior software products that people want to use.  The team building effort is a function of matching each person’s strengths with the job they have to perform.
 
-My vision of finance is all about long term buy and hold.  I view the companies I work for in that same light.  It takes years to build a successful company, and fortunately you are never done with the task at hand.  Incredible patience and focus are the ingredients that enable one to continue to hone the message and product that the company is marketing to their customer.
+My vision of life is all about a daily practice of making progress each and every day which over time builds to long term results and learning.  I view the companies I work for in that same light.  It takes years to build a successful company, and fortunately you are never done with the task at hand.  Incredible patience and focus are the ingredients that enable one to continue to hone the message and product that the company is marketing to their customer.
 
 I practice these skills each and every day in my life and it translates across to my personal life as well.  I love teaching English to native Spanish speakers, and I have done so in the past while living in South America for extended periods of time both in Ecuador and Argentina.
 
